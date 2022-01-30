@@ -93,23 +93,29 @@ body{
 main{
     background-color: white;
     margin: 0px;
-    padding: 10px;
-    margin-bottom: 5px;
+    padding: 0px;
+    
     
     
 }
+h1{
+    margin-top: 0px;
+    padding: 10px;
+    font-family: var(--fonte2);
+    font-size: 2em;
+}
 
-h1, h2{
+h2 {
     color: black;
     font-size: 2em;
     font-family: var(--fonte2);
-    margin-top: 0px;
-    
-
+    padding-left: 10px;
 }
 
 p{
     font-family: var(--fonte1);
+    padding-left: 10px;
+    margin-bottom: 0px;
 }
 div{
     display: block;
