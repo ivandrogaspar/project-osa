@@ -111,6 +111,9 @@ h1, h2{
 p{
     font-family: var(--fonte1);
 }
+div{
+    display: block;
+}
 section.imagem{
     background-image: url(midia/background-2.png);
     background-color: darkgray;
