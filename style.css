@@ -118,7 +118,8 @@ p{
     margin-bottom: 0px;
 }
 div{
-    display: block;
+    display: inline;
+    min-width:400px;
 }
 section.imagem{
     background-image: url(midia/background-2.png);
