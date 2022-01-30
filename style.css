@@ -136,7 +136,7 @@ section.imagem{
 
 }
 section.imagem > p{
-    margin-left: 50px;
+    margin: 50px;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.217);
     color: white;
