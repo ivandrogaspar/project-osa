@@ -25,6 +25,9 @@ body{
     font-family: var(--fonte1);
 
 }
+header nav {
+    position: fixed;
+}
 header{
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor5));
    
